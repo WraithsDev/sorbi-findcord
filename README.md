@@ -18,3 +18,11 @@
 <p align="center">
   Bu proje <a href="https://github.com/WraithsDev/sorbi-findcord/blob/main/LICENSE">MIT Lisansı</a> ile lisanslanmıştır.
 </p>
+
+
+<p align="center">
+  Botun Kurulumu ve Tanıtım Videosu
+</p>
+<p align="center">
+  https://www.youtube.com/watch?v=cLJC9m_2TQU
+</p>
